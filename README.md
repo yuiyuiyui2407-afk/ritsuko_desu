@@ -1,1 +1,1 @@
-# ritsuko_desu
+# ritsuko-ai
